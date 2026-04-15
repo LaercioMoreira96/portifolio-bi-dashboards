@@ -5,19 +5,13 @@ Repositório de **dashboards e protótipos** desenvolvidos em Power BI para aná
 ## 📂 Projetos
 
 ### 1. 📈 Dashboard Painel Metas Empresa
-Dashboard para **monitoramento de metas** com dados mockados.
+Dashboard para **monitoramento de metas da empresa** com dados mockados.
 
 ---
 
 ### 2. 🏧 Protótipo ATM - Saques
-Interface de **quiosque ATM de saques** com screenshots e dashboard Power BI.
+Dashboard de  **Saques em ATM**, por enquanto ainda em protótipo, sem entidade relacional.
 
----
-
-## 🛠️ Tecnologias
-
-- Microsoft Power BI
-- Excel, CSV
 
 ## 👤 Autor
 
